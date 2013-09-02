@@ -1,0 +1,8 @@
+name         'fernandoalmeida-nagios'
+version      '0.0.1'
+source       'https://github.com/fernandoalmeida/puppet-nagios.git'
+author       'Fernando Almeida'
+license      'Apache License, Version 2.0'
+summary      'A Puppet module for installing and configuring Nagios monitoring tool'
+description  'A Puppet module for installing and configuring Nagios monitoring tool'
+project_page 'https://github.com/fernandoalmeida/puppet-nagios'
